@@ -8,6 +8,12 @@ A Kanban-style project and task manager for small teams, built with the **MERN**
 ![Node](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
+## Screenshots
+
+| Dashboard | Kanban board | Edit task |
+|---|---|---|
+| ![Dashboard with projects and assigned tasks](docs/screenshots/dashboard.png) | ![Kanban board](docs/screenshots/board.png) | ![Edit task dialog](docs/screenshots/task-modal.png) |
+
 ## Features
 
 - **Accounts** — sign up and log in with JWT; passwords hashed with bcrypt
